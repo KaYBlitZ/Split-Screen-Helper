@@ -1,4 +1,4 @@
-# Project Title
+# Split Screen Helper
 
 This is an Android app that seeks to bring back split-screen mode by long-pressing the overview/recents button. Feel free to submit pull requests if you find any bugs or want to add more functionality.
 
