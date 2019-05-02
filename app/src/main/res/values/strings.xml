@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Split Screen Helper</string>
+    <string name="accessibility_service_description">
+"This has to be enabled in order to detect the long-press for split screen."
+    </string>
+</resources>
